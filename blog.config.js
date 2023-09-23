@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Notionic',
   author: '左蓝',
   email: 'i@zuolan.me',
-  link: 'https://notionicbandit007.vercel.app',
+  link: 'https://notionic-one-omega.vercel.app',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
